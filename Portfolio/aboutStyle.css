@@ -1,7 +1,6 @@
 body{
     background-color: rgb(220, 193, 244); 
-    
-}
+    }
 
 p{
     color: black;
@@ -12,8 +11,6 @@ p{
     border-style: dotted;
     border-color: white; 
     margin: .5em;
-    
-
 }
 .rotate{
     transform: rotate(90deg);
