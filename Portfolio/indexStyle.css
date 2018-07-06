@@ -4,11 +4,11 @@ body
 }
 p
 {
-    color:black;
+    color: black;
     font-size:40px;
     text-align: center;
     padding: 1em; 
-  border-style: dashed;
+    border-style: dashed;
     border-color: white;
     font-family: 'Lobster Two', cursive;
     }
@@ -16,3 +16,4 @@ a
 { 
     font-size: 24px;
 }
+
