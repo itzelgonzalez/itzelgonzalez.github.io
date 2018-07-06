@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(220, 193, 244); 
+    
+}
+
+p{
+    color: black;
+    font-size: 25px;
+    float: left;
+    height: 400px;
+    width: 50%;
+    border-style: dotted;
+    border-color: white; 
+    margin: .5em;
+    
+
+}
+.rotate{
+    transform: rotate(90deg);
+}
+#img{
+    float: left;
+}
